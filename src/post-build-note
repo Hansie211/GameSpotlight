@@ -1,0 +1,2 @@
+href=(.*?[^a-zA-Z\d\s\.:/-])
+href=/Users/hans/Documents/Development/game-spotlight/dist/spa/$1
