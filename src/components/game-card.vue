@@ -85,7 +85,9 @@ export default defineComponent({
 
 #cover {
     height: 100%;
-    max-width: 300px;
+    width: 215px;
+    flex-grow: 0;
+    flex-shrink: 0;
 }
 
 #description {
